@@ -81,22 +81,3 @@ ROI = 784 ÷ 5,216 × 100 = 15.03%.
 
 Break-even price = 5,020 ÷ 100 = $50.20 per share.
 
-## How to submit
-
-Email the program source code and run script to learnbeetle@gmail.com before the beginning of your next class.
-
-The prepared `stock_profit_homework.zip` contains:
-
-- `stock_profit_calculator.py`: the program source code.
-- `run.sh`: the run script for macOS/Linux. Extract the ZIP, open a terminal in the extracted folder, and enter `bash run.sh`. On Windows, run the Python source directly with `py stock_profit_calculator.py`.
-- `sample_run.txt`: the inputs and actual output for the instructor's ADBE example.
-- `README.md`: setup instructions and formula explanations.
-
-The phrase "run script" may mean a launcher script or a record of program execution, so both are included.
-
-1. Review the code and run it yourself.
-2. Compose an email to learnbeetle@gmail.com with subject `Stock Profit Calculator Homework - [Your Name] - [Course/Section]`.
-3. Attach the ZIP, or attach the source, run script, and sample output individually if your instructor prefers separate files.
-4. Replace the name and course placeholders with your own details, send before the deadline, and verify that the email appears in Sent.
-
-Do not submit only a screenshot. Review and understand the code, and follow your course's policy on outside or AI assistance.
