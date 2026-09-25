@@ -1,0 +1,20 @@
+ADBE example run
+
+Command: bash run.sh
+
+Inputs:
+Stock symbol: ADBE
+Allotment: 100
+Final share price ($): 110
+Sell commission ($): 15
+Initial share price ($): 25
+Buy commission ($): 10
+Capital gain tax rate (%): 15
+
+Actual report output:
+Stock Profit Report: ADBE
+Proceeds: $11,000.00
+Cost: $3,796.25
+Net Profit: $7,203.75
+Return on investment: 189.76%
+Break even price: $25.25
